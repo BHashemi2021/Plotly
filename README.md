@@ -6,7 +6,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 This project consists of four technical analysis deliverables. 
 
-  1: Creating a Horizontal Bar Chart
-  2: Creating a Bubble Chart
-  3: Creating a Gauge Chart
-  4: Customizing the Dashboard
+  1. Creating a Horizontal Bar Chart
+  2. Creating a Bubble Chart
+  3. Creating a Gauge Chart
+  4. Customizing the Dashboard
