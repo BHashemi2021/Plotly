@@ -119,9 +119,11 @@ function buildCharts(sample) {
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
         title: "Bacteria Cultures per Sample",
-        xaxis: {title: "OTU ID"},
+        xaxis: {title: "OTU IDs"},
+        yaxis: {title: "Sample Value"},
         automargin: true,
         hovermode: "closest"
+        
     };
   
     // 3. Use Plotly to plot the data with the layout.
@@ -150,7 +152,7 @@ function buildCharts(sample) {
       gauge: {
         axis: {range: [null,10], dtick: "2"},
 
-        bar: {color: "black"},
+        bar: {color: "darkgrey"},
         steps:[
           {range: [0, 2], color: "red"},
           {range: [2, 4], color: "orange"},

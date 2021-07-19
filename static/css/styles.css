@@ -1,16 +1,18 @@
 body {
 
-    color: #000000;
-    background-color: rgb(250, 250, 250);
+    color: #034b55;
+    background-color: rgb(243, 243, 243);
   }
  
  .tag {
      font-family: inherit; 
      font-size: 1rem;
+     
     }  
 
 .jumbotron {
-    background-image: url("../static/images/bacteria.jpg");
+    background-image: url("../static/images/Petri_dish.jpg");
     background-size: 100% 100%;
     text-align: center;
-  }
+    text-decoration-color: #0f1c64;  
+      }
