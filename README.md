@@ -2,7 +2,7 @@
 
 
 ## Background
-In a study carried out in 2011, Rob Dunn and his team of ecologists took swab samples from 60 belly buttons of volunteers. The team found 2,368 bacterial species, 1,458 of which might be new to science. While some belly buttons harbored as few as 29 to as many as 107 species, most had around 67 kinds of germs (1).  
+In a study carried out by Rob Dunn and his team of ecologists, they took swab samples from 60 volunteers' belly buttons. The team found 2,368 bacterial species, 1,458 of which might be new to science. While some belly buttons harbored as few as 29 to as many as 107 species, most had around 67 kinds of germs (1).  
 
 In this project we tried to visualize the demographic information, as well as the bacterial data for each de-identified volunteer. Specifically, the users can  identify the top 10 bacterial species of each volunteer.
 
