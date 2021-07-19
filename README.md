@@ -1,4 +1,4 @@
-# Plotly deployment
+# Plotly 
 
 https://bhashemi2021.github.io/Plotly_deployment/
 
