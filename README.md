@@ -16,19 +16,37 @@ This project consists of four technical analysis deliverables.
   4. Customizing the Dashboard
 
 ## 1. The Horizontal Bar Chart
-This horizontal bar chart will display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart (Figure 1).
+This iteractive horizontal bar chart will display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart (Figure 1).
 
 #### Figure 1: 
 The bar chart displaying the top 10 most prevalent bacterial species on agiven person
 
 -----------------
 
-![]()
+![bar-chart.png](https://github.com/BHashemi2021/Plotly/blob/main/Resources/Images/bar-chart.png)
 
 -----------------
 
 ## 2. The Bubble Chart
 
+The buble charts are also interactive and show the number of baceria harboured by the volunteer in question. The size of each bubble is relative to the number of bacteria on the subject's belly buttion (Figure 2).
 
 
-Web address to the dashboard: https://bhashemi2021.github.io/Plotly 
+#### Figure 2: 
+The bubble chart displaying the kind and number of bacerial species on volunteers
+
+-----------------
+
+![bubble-chart.png](https://github.com/BHashemi2021/Plotly/blob/main/Resources/Images/bubble-chart.png)
+
+-----------------
+
+
+
+The web address to the [Belly Button Biodiversity Dashboard](https://bhashemi2021.github.io/Plotly). 
+
+
+### References
+
+1- BYSHANNON FISCHERFOR, NATIONAL GEOGRAPHIC NEWS: What Lives in Your Belly Button? Study Finds "Rain Forest" of Species. Published NOVEMBER 14, 2012 at: https://www.nationalgeographic.com/science/article/121114-belly-button-bacteria-science-health-dunn
+
