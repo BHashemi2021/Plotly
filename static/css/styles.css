@@ -10,9 +10,13 @@ body {
      
     }  
 
-.jumbotron {
-    background-image: url("../static/images/Petri_dish.jpg");
+  .jumbotron {
+    background-image: url('../static/images/Petri_dish.jpg');
     background-size: 100% 100%;
+    opacity: 0.7;
     text-align: center;
-    text-decoration-color: #0f1c64;  
-      }
+    
+  }
+
+    
+  
