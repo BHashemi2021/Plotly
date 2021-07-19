@@ -59,5 +59,5 @@ The webpage screenshot is available in Figure 3.
 
 ### References
 
-1- Shannon Fischer, National Geographic News: What Lives in Your Belly Button? Study Finds "Rain Forest" of Species. Published November 14, 2012 at: https://www.nationalgeographic.com/science/article/121114-belly-button-bacteria-science-health-dunn
+1- Shannon Fischer, National Geographic News: What Lives in Your Belly Button? Study Finds "Rain Forest" of Species. November 14, 2012 at: https://www.nationalgeographic.com/science/article/121114-belly-button-bacteria-science-health-dunn
 
