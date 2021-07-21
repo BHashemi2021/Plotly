@@ -40,9 +40,8 @@ The bubble chart displaying the kind and number of bacerial species on volunteer
 
 -----------------
 
-The webpage deployed on GitHub is available at this address: [Belly Button Biodiversity Dashboard](https://bhashemi2021.github.io/Plotly). 
 
-The webpage screenshot is available in Figure 3.
+The webpage screenshot is displayed in Figure 3.
 
 
 
@@ -56,6 +55,9 @@ The webpage screenshot is available in Figure 3.
 ----------------
 
 
+ ### The webpage deployed on GitHub
+
+The webpage displaying the dashboard is available at this address: [Belly Button Biodiversity Dashboard](https://bhashemi2021.github.io/Plotly). 
 
 ### References
 
